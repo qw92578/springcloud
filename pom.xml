@@ -6,8 +6,8 @@
     <groupId>comg.qgf.springcloud</groupId>
     <artifactId>eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springcloud</name>
-    <description>Demo project for Spring Boot</description>
+    <name>eureka-server</name>
+    <description>Demo project for eureka-server</description>
 
 
     <parent>
