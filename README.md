@@ -1,2 +1,2 @@
 # springcloud
-springcloud
+springcloud eureka-server
