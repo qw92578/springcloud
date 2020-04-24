@@ -1,4 +1,4 @@
-package comg.qgf.springcloud;
+package top.qw92578;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

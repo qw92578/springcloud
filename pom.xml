@@ -3,11 +3,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>comg.qgf.springcloud</groupId>
+    <!-- 用该项目记录springcloud的学习-->
+    <!--<groupId>comg.qgf.springcloud</groupId>
     <artifactId>eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eureka-server</name>
-    <description>Demo project for eureka-server</description>
+    <description>Demo project for eureka-server</description>-->
+    <groupId>top.qw92578</groupId>
+    <artifactId>springcloud</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>springcloud</name>
+    <description>Demo project for springcloud</description>
 
 
     <parent>

@@ -1,7 +1,7 @@
-package comg.qgf.springcloud.tes;
+package top.qw92578.tes;
 
 /**
- * @Package: comg.qgf.springcloud.tes
+ * @Package: com.qgf.springcloud.tes
  * @ClassName: TestSwitch
  * @Author: fgq
  * @Description:
